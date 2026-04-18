@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-import Navbar from "./components/Navbar"
-import About from "./components/About"
-import Projects from "./components/Projects"
-import Skills from "./components/Skills"
-import BeyondTech from "./components/BeyondTech"
-import Footer from "./components/Footer"
-
-function App() {
-  return (
-    <>
-      <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <BeyondTech />
-      <Footer />
-=======
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -132,13 +114,8 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
->>>>>>> ba5c378d2308fbafbd4df1f8c6506505385d7966
     </>
   )
 }
 
-<<<<<<< HEAD
 export default App
-=======
-export default App
->>>>>>> ba5c378d2308fbafbd4df1f8c6506505385d7966

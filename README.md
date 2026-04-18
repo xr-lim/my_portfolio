@@ -11,6 +11,7 @@ A modern, Apple-inspired personal portfolio website built with React and Vite. F
 | **Skills** | 🌑 Dark | Interactive skill grid organized by Languages, Frameworks & Tools, and Technologies |
 | **Beyond Tech** | 🌕 Light | Photo showcase of hobbies — Dance, Baking, and Travel — with animated transitions |
 
+<<<<<<< HEAD
 ## 🎨 Design System
 
 Inspired by Apple's design philosophy:
@@ -20,6 +21,8 @@ Inspired by Apple's design philosophy:
 - **Navbar** — Translucent glass effect with `backdrop-filter: saturate(180%) blur(20px)`
 - **Animations** — Shimmer gradient on hero text, ambient glow effects, card hover lifts, fade-in transitions, hobby carousel animations
 - **Layout** — Full-width cinematic sections, centered 980px content, generous whitespace
+=======
+>>>>>>> ba5c378d2308fbafbd4df1f8c6506505385d7966
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +32,7 @@ Inspired by Apple's design philosophy:
 - **Styling:** Vanilla CSS with CSS custom properties
 - **Font:** Google Fonts (Inter)
 
+<<<<<<< HEAD
 ## 📁 Project Structure
 
 ```
@@ -113,3 +117,5 @@ Edit the `skillGroups` array in `src/components/Skills.jsx` to modify skill cate
 ## 📄 License
 
 © 2026 Xin Rou. All rights reserved.
+=======
+>>>>>>> ba5c378d2308fbafbd4df1f8c6506505385d7966
