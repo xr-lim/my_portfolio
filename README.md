@@ -1,16 +1,22 @@
-# React + Vite
+# ✨ Xin Rou — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, Apple-inspired personal portfolio website built with React and Vite. Featuring a sleek dark/light alternating design system, smooth animations, and a fully responsive layout.
 
-Currently, two official plugins are available:
+## 🖥️ Live Sections
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+| Section | Theme | Description |
+|---------|-------|-------------|
+| **About** | 🌑 Dark | Hero section with animated gradient heading, profile photo, and contact links |
+| **Projects** | 🌕 Light | Showcases key projects with images, descriptions, and GitHub links |
+| **Skills** | 🌑 Dark | Interactive skill grid organized by Languages, Frameworks & Tools, and Technologies |
+| **Beyond Tech** | 🌕 Light | Photo showcase of hobbies — Dance, Baking, and Travel — with animated transitions |
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Framework:** [React](https://react.dev/) 19
+- **Build Tool:** [Vite](https://vite.dev/) 6
+- **Icons:** [React Icons](https://react-icons.github.io/react-icons/) (Simple Icons pack)
+- **Styling:** Vanilla CSS with CSS custom properties
+- **Font:** Google Fonts (Inter)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
