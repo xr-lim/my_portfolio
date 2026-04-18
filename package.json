@@ -11,12 +11,8 @@
   },
   "dependencies": {
     "react": "^19.2.4",
-<<<<<<< HEAD
     "react-dom": "^19.2.4",
     "react-icons": "^5.6.0"
-=======
-    "react-dom": "^19.2.4"
->>>>>>> ba5c378d2308fbafbd4df1f8c6506505385d7966
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
@@ -27,6 +23,6 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
-    "vite": "^8.0.4"
+    "vite": "^8.0.8"
   }
 }
